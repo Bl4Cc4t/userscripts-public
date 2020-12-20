@@ -8,8 +8,8 @@ Larger projects: [GoodTwitter2](https://github.com/Bl4Cc4t/GoodTwitter2)
 - [Google Search Pre 2021 Style](#google-search-pre-2021-style)
 
 
-### Google Search Pre 2021 Style
-Small script to get the non-experimental look without Google Sans back
+## Google Search Pre 2021 Style
+Small script to get the non-experimental look without Google Sans back. ([install](https://github.com/Bl4Cc4t/userscripts-public/raw/master/google_search.pre21style.user.js))
 
 <details>
 <summary>Preview</summary>
