@@ -16,5 +16,5 @@ Small script to get the non-experimental look without Google Sans back
 
 with Google Sans | standard look
 :-:|:-:
-![](https://i.imgur.com/VasKr6x.png) | ![](https://i.imgur.com/gFdYTo7.png)
+![](https://i.imgur.com/gFdYTo7.png) | ![](https://i.imgur.com/VasKr6x.png)
 </details>
