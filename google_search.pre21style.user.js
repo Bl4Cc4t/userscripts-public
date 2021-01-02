@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name          Google Search Pre 2021 Style
-// @version       0.1
+// @version       0.2
 // @description   Small script to get the non-experimental look without Google Sans back (https://imgur.com/a/pbjChlu)
 // @author        schwarzkatz
 // @match         https://www.google.com/search*
@@ -21,11 +21,11 @@
     }
 
     /* smaller, hover-only box shadow */
-    form[role=search] .logo.doodle + div {
+    form[role=search] .logo + div {
       box-shadow: none !important;
       border-color: rgb(223, 225, 229) !important;
     }
-    form[role=search] .logo.doodle + div:hover {
+    form[role=search] .logo + div:hover {
       box-shadow: 0 1px 6px rgba(32,33,36,.28) !important;
     }
   `)
