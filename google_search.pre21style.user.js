@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name          Google Search Pre 2021 Style
-// @version       0.2
+// @version       0.3
 // @description   Small script to get the non-experimental look without Google Sans back (https://imgur.com/a/pbjChlu)
 // @author        schwarzkatz
 // @match         https://www.google.com/search*
@@ -15,9 +15,10 @@
       font-family: arial, sans-serif !important;
     }
     /* Smaller headers */
-    #res h3, #botstuff h3 {
+    #res h3, #botstuff h3, h2 {
       font-size: 20px !important;
       line-height: 26px !important;
+      letter-spacing: unset !important;
     }
 
     /* smaller, hover-only box shadow */
