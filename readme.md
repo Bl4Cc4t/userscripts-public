@@ -1,7 +1,10 @@
 # Public userscripts
 Just some smaller public userscripts.
 
-Larger projects: [GoodTwitter2](https://github.com/Bl4Cc4t/GoodTwitter2)
+To use these scripts, you need a userscript manager.
+I recommend [Tampermonkey](https://www.tampermonkey.net/) or [Violentmonkey](https://violentmonkey.github.io/get-it/) (Greasemonkey is not supported at the moment).
+
+Larger project(s): [GoodTwitter2](https://github.com/Bl4Cc4t/GoodTwitter2)
 
 
 ## Content
