@@ -22,7 +22,7 @@ with Google Sans | standard look
 </details>
 
 ## MyHeritage Open links in new tab
-Open  links in new tab when ctrl-clicking on them. ([install](https://github.com/Bl4Cc4t/userscripts-public/raw/master/myheritage.open-link-in-new-tab.user.js))
+Open links in new tab when ctrl-clicking on them. ([install](https://github.com/Bl4Cc4t/userscripts-public/raw/master/myheritage.open-link-in-new-tab.user.js))
 
 ## Picarto Pre 2021 Style
 Picarto with the old style. ([install](https://github.com/Bl4Cc4t/userscripts-public/raw/master/picarto.pre21style.user.js))

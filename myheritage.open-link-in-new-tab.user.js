@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name          MyHeritage Open link in new tab
 // @version       0.1
-// @description   Open links in new tabs when ctrl-clicking
+// @description   Open links in new tabs when ctrl-clicking on them
 // @namespace     https://www.reddit.com/r/chrome/comments/nawcnh/site_does_not_allow_open_in_new_tab/
 // @author        schwarzkatz
 // @include       https://www.myheritage.*/*
@@ -24,7 +24,7 @@
     }
   }
 
-  // do not diable buttons on click
+  // do not disable buttons on click
   unsafeWindow.disableCssButton = function() {}
 
   // listen to click events
