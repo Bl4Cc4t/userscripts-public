@@ -17,11 +17,11 @@ Larger project(s): [GoodTwitter2](https://github.com/Bl4Cc4t/GoodTwitter2)
 Small script to get the non-experimental look without Google Sans back. ([install](https://github.com/Bl4Cc4t/userscripts-public/raw/master/google_search.pre21style.user.js))
 
 <details>
-<summary>Preview</summary>
+  <summary>Preview</summary>
 
-with Google Sans | standard look
-:-:|:-:
-![](https://i.imgur.com/gFdYTo7.png) | ![](https://i.imgur.com/VasKr6x.png)
+  with Google Sans | standard look
+  :-:|:-:
+  ![](https://i.imgur.com/gFdYTo7.png) | ![](https://i.imgur.com/VasKr6x.png)
 </details>
 
 ## MyHeritage Open links in new tab

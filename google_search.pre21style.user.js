@@ -29,6 +29,9 @@
     form[role=search] .logo + div:hover {
       box-shadow: 0 1px 6px rgba(32,33,36,.28) !important;
     }
+    em {
+      font-weight: bold !important;
+    }
   `)
 
   // removes the font styling completely, some elements (People also ask/h2) are not matched by the css above, since they have an !important flag
