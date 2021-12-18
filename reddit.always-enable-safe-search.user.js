@@ -23,7 +23,7 @@
           resolve(document.querySelector(selector))
           observer.disconnect()
         }
-      });
+      })
 
       observer.observe(document.body, {
         childList: true,
