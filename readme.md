@@ -11,6 +11,7 @@ Larger project(s): [GoodTwitter2](https://github.com/Bl4Cc4t/GoodTwitter2)
 - [Google Search Pre 2021 Style](#google-search-pre-2021-style)
 - [MyHeritage Open links in new tab](#myheritage-open-links-in-new-tab)
 - [Picarto Pre 2021 Style](#picarto-pre-2021-style)
+- [Reddit Always Enable Safe Search](#reddit-always-enable-safe-search)
 
 
 ## Google Search Pre 2021 Style
@@ -29,3 +30,6 @@ Open links in new tab when ctrl-clicking on them. ([install](https://github.com/
 
 ## Picarto Pre 2021 Style
 Picarto with the old style. ([install](https://github.com/Bl4Cc4t/userscripts-public/raw/master/picarto.pre21style.user.js))
+
+## Reddit Always Enable Safe Search
+Always enable safe search when performing a search on reddit. ([install](https://github.com/Bl4Cc4t/userscripts-public/raw/master/reddit.always-enable-safe-search.user.js))
