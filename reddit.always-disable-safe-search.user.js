@@ -1,12 +1,12 @@
 // ==UserScript==
-// @name          Reddit Always Enable Safe Search
+// @name          Reddit Always Disable Safe Search
 // @version       0.1
-// @description   Always enable safe search when performing a search on reddit.
+// @description   Always disable the safe search toggle when performing a search on reddit.
 // @author        schwarzkatz
 // @match         https://www.reddit.com/*
 // @grant         none
-// @updateURL     https://github.com/Bl4Cc4t/userscripts-public/raw/master/reddit.always-enable-safe-search.user.js
-// @downloadURL   https://github.com/Bl4Cc4t/userscripts-public/raw/master/reddit.always-enable-safe-search.user.js
+// @updateURL     https://github.com/Bl4Cc4t/userscripts-public/raw/master/reddit.always-disable-safe-search.user.js
+// @downloadURL   https://github.com/Bl4Cc4t/userscripts-public/raw/master/reddit.always-disable-safe-search.user.js
 // ==/UserScript==
 
 (function() {
