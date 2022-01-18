@@ -32,4 +32,4 @@ Open links in new tab when ctrl-clicking on them. ([install](https://github.com/
 Picarto with the old style. ([install](https://github.com/Bl4Cc4t/userscripts-public/raw/master/picarto.pre21style.user.js))
 
 ## Reddit Always Disable Safe Search
-Always disable the safe search toggle when performing a search on reddit. ([install](https://github.com/Bl4Cc4t/userscripts-public/raw/master/reddit.always-enable-safe-search.user.js))
+Always disable the safe search toggle when performing a search on reddit. ([install](https://github.com/Bl4Cc4t/userscripts-public/raw/master/reddit.always-disable-safe-search.user.js))
