@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name          Google Search Pre 2021 Style
+// @name          Google Search - Pre 2021 style
 // @version       0.3
 // @description   Small script to get the non-experimental look without Google Sans back (https://imgur.com/a/pbjChlu)
 // @author        schwarzkatz

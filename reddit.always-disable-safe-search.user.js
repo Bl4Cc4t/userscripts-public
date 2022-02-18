@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name          Reddit Always Disable Safe Search
+// @name          Reddit - Always disable safe search
 // @version       0.1
 // @description   Always disable the safe search toggle when performing a search on reddit.
 // @author        schwarzkatz
