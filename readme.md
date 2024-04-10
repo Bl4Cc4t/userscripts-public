@@ -7,10 +7,6 @@ I recommend [Tampermonkey](https://www.tampermonkey.net/) or [Violentmonkey](htt
 Larger project(s): [GoodTwitter2](https://github.com/Bl4Cc4t/GoodTwitter2)
 
 
-## Content
-- [Google Search Pre 2021 Style](#google-search---pre-2021-style)
-
-
 ## Google Search - Pre 2021 style
 Small script to get the non-experimental look without Google Sans back. ([install](https://github.com/Bl4Cc4t/userscripts-public/raw/master/src/google_search.pre21style.user.js))
 
@@ -21,3 +17,8 @@ Small script to get the non-experimental look without Google Sans back. ([instal
   :-:|:-:
   ![](https://i.imgur.com/gFdYTo7.png) | ![](https://i.imgur.com/VasKr6x.png)
 </details>
+
+## Twitter - Autoplay all the videos
+Autoplays all the videos. Useful if you use a [user style to unblur media](https://userstyles.world/style/15658/twitterx-disable-media-tab-blur).
+
+[Install](https://github.com/Bl4Cc4t/userscripts-public/raw/master/src/twitter.autoplay-all-the-videos.user.js)
