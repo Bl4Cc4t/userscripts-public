@@ -3,7 +3,7 @@
 // @match           https://mobile.twitter.com/*
 // @match           https://twitter.com/*
 // @match           https://x.com/*
-// @version         0.1
+// @version         0.2
 // @description     Autoplays all the videos. Useful if you use a user style to unblur media, like this one: https://userstyles.world/style/15658/twitterx-disable-media-tab-blur
 // @author          schwarzkatz
 // @grant           none
@@ -70,7 +70,7 @@ function autoplayVideos() {
 		threshold: 0.9
     })
 
-    waitForKeyElements(`article video`, observer.observe)
+    waitForKeyElements(`article video`, video => observer.observe(video))
 }
 
 
