@@ -5,8 +5,8 @@
 // @author        schwarzkatz
 // @match         https://www.google.com/search*
 // @grant         GM_addStyle
-// @updateURL     https://github.com/Bl4Cc4t/userscripts-public/raw/master/google_search.pre21style.user.js
-// @downloadURL   https://github.com/Bl4Cc4t/userscripts-public/raw/master/google_search.pre21style.user.js
+// @updateURL     https://github.com/Bl4Cc4t/userscripts-public/raw/master/src/google_search.pre21style.user.js
+// @downloadURL   https://github.com/Bl4Cc4t/userscripts-public/raw/master/src/google_search.pre21style.user.js
 // ==/UserScript==
 
 (function() {

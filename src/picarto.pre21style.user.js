@@ -6,11 +6,11 @@
 // @match         https://picarto.tv/*
 // @grant         GM_addStyle
 // @grant         GM_getResourceText
-// @resource      css https://github.com/Bl4Cc4t/userscripts-public/raw/master/picarto.pre21style.css
+// @resource      css https://github.com/Bl4Cc4t/userscripts-public/raw/master/src/picarto.pre21style.css
 // @require       https://code.jquery.com/jquery-3.5.1.min.js
 // @require       https://gist.github.com/raw/2625891/waitForKeyElements.js
-// @updateURL     https://github.com/Bl4Cc4t/userscripts-public/raw/master/picarto.pre21style.user.js
-// @downloadURL   https://github.com/Bl4Cc4t/userscripts-public/raw/master/picarto.pre21style.user.js
+// @updateURL     https://github.com/Bl4Cc4t/userscripts-public/raw/master/src/picarto.pre21style.user.js
+// @downloadURL   https://github.com/Bl4Cc4t/userscripts-public/raw/master/src/picarto.pre21style.user.js
 // ==/UserScript==
 
 (function() {

@@ -1,12 +1,12 @@
 // ==UserScript==
-// @name          Yandex - Always disable safe search
+// @name          Reddit - Always disable safe search
 // @version       0.1
-// @description   Always disable the safe search toggle when performing a search on yandex.
+// @description   Always disable the safe search toggle when performing a search on reddit.
 // @author        schwarzkatz
-// @match         https://yandex.com/*
+// @match         https://www.reddit.com/*
 // @grant         none
-// @updateURL     https://github.com/Bl4Cc4t/userscripts-public/raw/master/yandex.always-disable-safe-search.user.js
-// @downloadURL   https://github.com/Bl4Cc4t/userscripts-public/raw/master/yandex.always-disable-safe-search.user.js
+// @updateURL     https://github.com/Bl4Cc4t/userscripts-public/raw/master/src/reddit.always-disable-safe-search.user.js
+// @downloadURL   https://github.com/Bl4Cc4t/userscripts-public/raw/master/src/reddit.always-disable-safe-search.user.js
 // ==/UserScript==
 
 (function() {
@@ -32,5 +32,5 @@
     })
   }
 
-  waitForElm(`.head-filter_type_moderate`).then(() => $(`[role=menuitem] > [data-bem*=unlimited]`).click())
+  waitForElm(`#safe-search-toggle[aria-checked=true]`).then(e => e.click())
 })()

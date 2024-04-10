@@ -6,8 +6,8 @@
 // @author        schwarzkatz
 // @include       https://www.myheritage.*/*
 // @grant         unsafeWindow
-// @updateURL     https://github.com/Bl4Cc4t/userscripts-public/raw/master/myheritage.open-link-in-new-tab.user.js
-// @downloadURL   https://github.com/Bl4Cc4t/userscripts-public/raw/master/myheritage.open-link-in-new-tab.user.js
+// @updateURL     https://github.com/Bl4Cc4t/userscripts-public/raw/master/src/myheritage.open-link-in-new-tab.user.js
+// @downloadURL   https://github.com/Bl4Cc4t/userscripts-public/raw/master/src/myheritage.open-link-in-new-tab.user.js
 // ==/UserScript==
 
 (function() {
