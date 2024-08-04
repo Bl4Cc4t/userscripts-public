@@ -18,6 +18,13 @@ Small script to get the non-experimental look without Google Sans back. ([instal
   ![](https://i.imgur.com/gFdYTo7.png) | ![](https://i.imgur.com/VasKr6x.png)
 </details>
 
+## Groww - Allow open in new tab
+Allows opening of react `<Link>` elements in new tabs.
+
+*Important*: currently does not work in Firefox due to CSP issues.
+
+[Install](https://github.com/Bl4Cc4t/userscripts-public/raw/master/src/groww.allow-open-in-new-tab.user.js)
+
 ## Twitter - Autoplay all the videos
 Autoplays all the videos. Useful if you use a [user style to unblur media](https://userstyles.world/style/15658/twitterx-disable-media-tab-blur).
 
