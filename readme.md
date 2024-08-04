@@ -19,7 +19,8 @@ Small script to get the non-experimental look without Google Sans back. ([instal
 </details>
 
 ## Groww - Allow open in new tab
-Allows opening of react `<Link>` elements in new tabs.
+Allows opening of react-router `<Link>` elements in new tabs.
+Supports middle mouse button & ctrl clicks.
 
 *Important*: currently does not work in Firefox due to CSP issues.
 

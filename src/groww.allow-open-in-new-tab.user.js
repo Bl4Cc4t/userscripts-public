@@ -2,7 +2,7 @@
 // @name            Groww - Allow open in new tab
 // @match           https://groww.in/*
 // @version         0.1
-// @description     Allows opening links in new tabs.
+// @description     Allows opening of links in new tabs. Supports middle mouse button & ctrl clicks.
 // @author          schwarzkatz
 // @grant           GM_openInTab
 // @require         https://github.com/Bl4Cc4t/userscripts-public/raw/master/lib/react-util.js?v0.1
@@ -44,7 +44,7 @@ function patchRouterPush() {
     if (GLOBALS.pushIsPatched) return
     console.log("patching react-router::push")
 
-    const router = getRootReactPropByName(reactRootSelector, "router")
+    const router = getRootReactPropByName(GLOBALS.reactRootSelector, "router")
     const _push = router.push
     router.push = function() {
         if (typeof arguments[0] !== "string") {
